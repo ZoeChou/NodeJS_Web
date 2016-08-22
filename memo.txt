@@ -1,0 +1,3 @@
+1. http://www.nodebeginner.org/index-zh-tw.html#javascript-and-nodejs
+2. http://debuggable.com/blog
+3. http://yuiblog.com/blog/2010/04/09/node-js-yui-3-dom-manipulation-oh-my/
